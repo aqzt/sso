@@ -4,6 +4,13 @@
 ## 项目简介
 - 项目主要是汇集整理服务器安全运维规范，包括运维工程师必须遵守的规范、服务器运维中注意事项、故障避免手段等文档，帮助运维工程师避免服务器安全和运维故障，方便运维工程师学习成长。
 
+推荐阅读：
+
+**领域**（点击预览）| **核心贡献者 ID** | **原创链接** |**学习资源**
+------- | ---- | ---- | ---- |
+[**# 安全运维**](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[@ppabc（ppabc）](https://github.com/ppabc/)｜安全运维规范发起人 |[原创链接](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[推荐](https://github.com/aqzt/sso)｜归档](https://github.com/aqzt/sso)
+|[- 内部漏扫工具-巡风](https://github.com/ysrc/xunfeng)|[@ysrc](https://github.com/ysrc)｜同程安全应急响应中心|[原创链接](https://github.com/ysrc/xunfeng)|[推荐](https://github.com/ysrc)｜归档
+
 
 ### 现状
 目前，网上运维工程师服务器安全意识参差不齐，大部分都存在这三方面的问题：
