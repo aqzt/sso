@@ -6,7 +6,7 @@
 
 推荐阅读：
 
-**项目**（点击预览）| **核心贡献者 ID** | **文章链接** |**学习资源**
+**项目**（点击预览）| **文章作者 ID** | **文章链接** |**学习资源**
 -------------- | ---- | -------- | ---- |
 [**# 安全运维规范**](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[@ppabc](https://github.com/ppabc/)｜安全运维规范发起人 |[原创链接](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[推荐](https://github.com/aqzt/sso)｜归档
 |[- 内部漏扫工具-巡风](https://github.com/ysrc/xunfeng)|[@ysrc](https://github.com/ysrc)｜同程安全应急响应中心|[原创链接](http://www.freebuf.com/articles/security-management/126254.html)|[推荐](https://github.com/ysrc)｜归档
