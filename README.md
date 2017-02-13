@@ -13,6 +13,7 @@
 |[- Docker的蜜罐系统](https://github.com/atiger77/Dionaea)|[@atiger77](https://github.com/atiger77)｜atiger77|[原创链接](http://www.freebuf.com/articles/security-management/126254.html)|[推荐](https://github.com/ysrc)｜归档
 |[- jumpserver跳板机](https://github.com/jumpserver/jumpserver)|[@jumpserver](https://github.com/jumpserver)｜jumpserver|[原创链接](https://github.com/jumpserver)|[推荐](https://github.com/jumpserver)｜归档
 |[- 脚本自动安全检查基线](https://github.com/ppabc/security_check/tree/master/checklinux2.0)|[@ppabc](https://github.com/ppabc)｜安全运维规范发起人|[转载链接](http://www.freebuf.com/sectool/123094.html)|[推荐](https://github.com/ppabc/security_check)｜归档
+|[- 服务器安全事件应急响应排查](https://aqzt.com/1313.html)|[@ppabc](https://github.com/ppabc)｜安全运维规范发起人|[转载链接](https://aqzt.com/1313.html)|[推荐](https://aqzt.com/1313.html)｜归档
 
 ### 现状
 目前，网上运维工程师服务器安全意识参差不齐，大部分都存在这三方面的问题：
