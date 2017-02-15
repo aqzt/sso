@@ -8,7 +8,7 @@
 
 **项目**（点击预览）| **文章作者 ID** | **文章链接** |**学习资源**
 -------------- | ---- | -------- | ---- |
-[**# 安全运维规范**](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[@ppabc](https://github.com/ppabc/)｜安全运维规范发起人 |[原创链接](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[推荐](https://github.com/aqzt/sso)｜归档
+[**# 安全运维规范 #**](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[@ppabc](https://github.com/ppabc/)｜安全运维规范发起人 |[原创链接](https://github.com/aqzt/sso/blob/master/Server_security_operation.md)|[推荐](https://github.com/aqzt/sso)｜归档
 |[- 内部漏扫工具-巡风](https://github.com/ysrc/xunfeng)|[@ysrc](https://github.com/ysrc)｜同程安全应急响应中心|[原创链接](http://www.freebuf.com/articles/security-management/126254.html)|[推荐](https://github.com/ysrc)｜归档
 |[- Docker的蜜罐系统](https://github.com/atiger77/Dionaea)|[@atiger77](https://github.com/atiger77)｜atiger77|[原创链接](http://www.freebuf.com/articles/security-management/126254.html)|[推荐](https://github.com/ysrc)｜归档
 |[- jumpserver跳板机](https://github.com/jumpserver/jumpserver)|[@jumpserver](https://github.com/jumpserver)｜jumpserver|[原创链接](https://github.com/jumpserver)|[推荐](https://github.com/jumpserver)｜归档
@@ -31,7 +31,7 @@
 ## 服务器安全那些要做，那些不要做
 - 安全设置要不要做？做安全还是不做安全？还是说只做一些基础设置。
 - 如果安全相关工作，能让服务器和服务器集群更安全，那就要去做。
-- 安全的相关工作尽量做，不会做的想办法做，实在没法做的，那就延后再说，也需现在没办法做，可能以后有办法，想做总能找到办法。
+- 安全的相关工作尽量做，不会做的想办法做，实在没法做的，那就延后再说，也许现在没办法做，可能以后有办法，想做总能找到办法。
 - 安全无小事，要想想不安全的后果，如果出现安全事件，数据泄露，数据库被拖库，后果是很严重的，这样的案例互联网上很多，就不多说了。
 
 - 项目的口号是：使用服务器安全运维规范，不掉坑，不背锅！
